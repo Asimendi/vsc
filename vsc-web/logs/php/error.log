@@ -1,0 +1,27 @@
+[28-Feb-2020 12:13:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-content\themes\vsc\functions.php:105
+Stack trace:
+#0 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\class-wp-hook.php(288): gymfitness_hero_image('')
+#1 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-settings.php(523): do_action('init')
+#4 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-config.php(77): require_once('C:\\Users\\prog\\D...')
+#5 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-load.php(37): require_once('C:\\Users\\prog\\D...')
+#6 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public in C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-content\themes\vsc\functions.php on line 105
+[28-Feb-2020 12:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-content\themes\vsc\functions.php:105
+Stack trace:
+#0 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\class-wp-hook.php(288): gymfitness_hero_image('')
+#1 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-settings.php(523): do_action('init')
+#4 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-config.php(77): require_once('C:\\Users\\prog\\D...')
+#5 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-load.php(37): require_once('C:\\Users\\prog\\D...')
+#6 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public in C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-content\themes\vsc\functions.php on line 105
+[28-Feb-2020 12:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-content\themes\vsc\functions.php:105
+Stack trace:
+#0 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\class-wp-hook.php(288): gymfitness_hero_image('')
+#1 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-settings.php(523): do_action('init')
+#4 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-config.php(77): require_once('C:\\Users\\prog\\D...')
+#5 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-load.php(37): require_once('C:\\Users\\prog\\D...')
+#6 C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public in C:\Users\prog\Desktop\Trabajo Extra\Cosas Git\vsc\vsc-web\app\public\wp-content\themes\vsc\functions.php on line 105
